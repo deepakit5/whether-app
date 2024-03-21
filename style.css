@@ -52,7 +52,7 @@ h1 {
 }
 
 .tab.currentTab {
-    background-color: rgba(219, 226, 239, 0.5);
+   background-color: rgb(0 0 0 / 50%);
     border-radius: 4px;
 }
 
@@ -236,7 +236,8 @@ h1 {
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
-    background-color: rgba(219, 226, 239, 0.5);
+    
+    background-color: rgb(13 13 13 / 60%);
     padding: 0.8rem;
     border-radius: 5px;
     width: 30%;
